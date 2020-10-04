@@ -1,0 +1,13 @@
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\bin\Debug\netcoreapp3.1\ch3-Exercise.exe
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\bin\Debug\netcoreapp3.1\ch3-Exercise.deps.json
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\bin\Debug\netcoreapp3.1\ch3-Exercise.runtimeconfig.json
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\bin\Debug\netcoreapp3.1\ch3-Exercise.runtimeconfig.dev.json
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\bin\Debug\netcoreapp3.1\ch3-Exercise.dll
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\bin\Debug\netcoreapp3.1\ch3-Exercise.pdb
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\obj\Debug\netcoreapp3.1\ch3-Exercise.csprojAssemblyReference.cache
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\obj\Debug\netcoreapp3.1\ch3-Exercise.AssemblyInfoInputs.cache
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\obj\Debug\netcoreapp3.1\ch3-Exercise.AssemblyInfo.cs
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\obj\Debug\netcoreapp3.1\ch3-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\obj\Debug\netcoreapp3.1\ch3-Exercise.dll
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\obj\Debug\netcoreapp3.1\ch3-Exercise.pdb
+C:\Users\pmaity\Desktop\lc101\c#\ch3-Exercise\obj\Debug\netcoreapp3.1\ch3-Exercise.genruntimeconfig.cache
